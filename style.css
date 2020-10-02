@@ -12,34 +12,27 @@ h1, h2, li {
 }
 
 h1 {
-    background-color: 
-#00684B;
-    color: 
-white;
+    background-color: #f0e7f0;
+    color: rgb(12, 10, 10);
     padding: 16px;
     text-align: center;
 }
 
 h2 {
-    background-color: 
-#03a87c;
-    color: 
-white;
+    background-color: #03a87c;
+    color: white;
     padding: 8px 24px;
     margin-top: 48px;
 }
 
 em {
-    background-color: 
-#FF9E05;
-    color:
-white;
+    background-color: #FF9E05;
+    color:white;
     padding: 2px;
 }
 
 strong {
-    color: 
-#FF9E05;
+    color: #FF9E05;
 }
 
 a::after {
